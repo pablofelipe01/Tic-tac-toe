@@ -27,3 +27,9 @@
 - As a player, I want the game to share my wins to Facebook so everyone can know how good I am.
 - As a player, I want to be able to play the game in the language that I speak, so that I can fully understand the game.
 - As a player with a visual limitation, I want to be able to play the game so that I can access its functionality.
+
+## Wireframes
+
+```md
+![Tic tac toc page page view](https://user-images.githubusercontent.com/88259567/130825572-08548329-a093-4d7d-956b-3ceacc5d65f8.png)
+```
